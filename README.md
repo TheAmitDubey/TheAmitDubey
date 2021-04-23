@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit Dubey, i works as software engineer at Esri.
+- 👋 Hi, I’m Amit Dubey, i works as a software engineer at Esri.
 - 👀 I’m interested in Performance, Reliability, Availability, Scalability
 - 🌱 I’m currently learning GIS, Kubernetes
 - 💞️ I’m looking to collaborate on massively scalable distributed system
