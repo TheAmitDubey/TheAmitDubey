@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Dubey, i works as a software engineer at Esri.
-- 👀 I’m interested in Performance, Reliability, Availability, Scalability
-- 🌱 I’m currently learning GIS, Kubernetes
+- 👀 I’m interested to achive performance, reliability, availability, scalability for distributed system.
+- 🌱 I’m currently learning GIS, Kubernetes, Data Driven Architecture.
 - 💞️ I’m looking to collaborate on massively scalable distributed system
 - 📫 How to reach me - adubey31@gmail.com
 
